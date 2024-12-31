@@ -9,7 +9,6 @@ A racing game where a neural network learns to drive based on your inputs.
    pip install -r requirements.txt
    ```
 
-````
 
 2. **Run the Game**:
 
@@ -40,4 +39,3 @@ A racing game where a neural network learns to drive based on your inputs.
 - Python 3.x
 - TensorFlow
 - Other dependencies listed in `requirements.txt`.
-````
