@@ -36,8 +36,6 @@ https://github.com/user-attachments/assets/41a11e4e-4c3b-47ef-8447-79f545c1bb17
    - Press `N` to let the neural network drive the car.
    - Press `S` to toggle sensors on/off.
 
-## Controls
-
 ## Controls  
 - **Arrow Up**: Accelerate  
 - **Arrow Down**: Brake  
